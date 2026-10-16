@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WIM 100</string>
+    <string name="canal_notificaciones">Evaluaciones WIM 100</string>
+    <string name="canal_notificaciones_desc">Avisos cuando se registra una evaluación</string>
+</resources>
